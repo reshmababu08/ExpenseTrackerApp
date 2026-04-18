@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "930236194459",
+    "project_id": "expense-tracker-beeb6",
+    "storage_bucket": "expense-tracker-beeb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:930236194459:android:fe45ba4ca26e13a34cf03e",
+        "android_client_info": {
+          "package_name": "com.example.expensetracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "930236194459-17tg73r839mhhi8pnq1ui368q1prt29b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.expensetracker",
+            "certificate_hash": "a2b9aca535baa0046dd496f340ff4ee2bbcb9844"
+          }
+        },
+        {
+          "client_id": "930236194459-35m707s2janf998mp440ld7hn6sd4pmi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXb-0T9H8s81cu0Pdp7fDk2jaj8jg5aQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "930236194459-35m707s2janf998mp440ld7hn6sd4pmi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
